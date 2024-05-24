@@ -1,4 +1,5 @@
 pymatgen
 gensim
-joblib
 numpy==1.23
+scikit-learn==1.2.1
+joblib
